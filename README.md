@@ -43,10 +43,9 @@ portfolio/
 
 ├── js/main.js
 
-├── imagesprofile.jpg 
-
-├── CV.pdf [Update Later]
-
+├── images/profile.jpg 
+      └──CV.pdf [Update Later]
+      
 
 🌍 Live Demo
 
