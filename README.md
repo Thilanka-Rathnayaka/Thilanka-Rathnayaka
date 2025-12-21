@@ -45,7 +45,7 @@ portfolio/
 
 ├── images/profile.jpg 
 
-└──CV.pdf [Update Later]
+      └──CV.pdf [Update Later]
       
 
 🌍 Live Demo
