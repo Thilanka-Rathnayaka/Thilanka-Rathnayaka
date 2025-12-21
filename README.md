@@ -44,6 +44,7 @@ portfolio/
 ├── js/main.js
 
 ├── images/profile.jpg 
+
 └──CV.pdf [Update Later]
       
 
