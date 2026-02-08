@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Dynamic Typing Title -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Thilanka+Rathnayaka" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=#00BFFF&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Thilanka+Rathnayaka" alt="Typing Animation" />
   </h1>
 
   <!-- Glow Effect Badges -->
@@ -22,7 +22,7 @@
   <!-- Location with Pin -->
   <!-- Location with Pin -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Anuradhapura,%20Sri%20Lanka-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Alawwa,%20Sri%20Lanka-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
   <!-- Animated Divider -->
