@@ -1,8 +1,12 @@
 <div align="center">
   <!-- Dynamic Typing Title -->
   <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&height=55&lines=Hi!+👋+I'm+Thilanka+Yasodhana+Rathnayaka+" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&multiline=true&width=600&height=60&lines=Hi!%F0%9F%91%8B+I'm+Thilanka+Yasodhana+Rathnayaka" alt="Typing SVG" />
   </h1>
+  <h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=07F724&multiline=true&width=600&height=70&lines=-Senior+Technical+Officer-;-+%F0%9F%8C%90+Cyber+Security+%26+Networking+%F0%9F%9B%A1%EF%B8%8F+Specialist-" alt="Typing SVG" />
+  </h3>
+  
 
  
   <!-- Location with Pin -->
