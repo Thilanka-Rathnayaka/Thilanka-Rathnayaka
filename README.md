@@ -22,7 +22,7 @@
   <p><em>security is a cultural, proactive, and essential business requirement rather than just an IT function.</em></p>
   <!-- GIF -->
   <p align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnY3cnA1ZG40OHplNmM4OHhlemdwd3gwYjdneGU2ZDJwYXV1a3ZieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhicmUwYjJnNWZmZWdud2llaXQ0MW4zMGl2OHFpc3gzYmNwY3c3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" />
   </p>
 </div>
 
@@ -31,14 +31,15 @@
   <summary><b>🦄 About Me (in pytHon)</b></summary>
   
   ```python
-  class Nethmini:
+  class Thilanka:
       def __init__(self):
           self.name = "Thilanka Yasodhana Rathnayaka"
           self.role = "Senior Technical Officer [IT,Networks & Cybersecurity]"
           self.skills = {
               "Cloud & virtualization": ["AWS", "Azure", "Google"],
               "Cybersecurity": ["Firewall", "EDR/XDR", "Identify Security Vulnerabilities"],
-              "Networking": ["TCP/IP, DNS, DHCP", "VPN", "Router, Switch Configuration"]
+              "Networking": ["TCP/IP", "DNS"," DHCP", "VPN", "Router/ Switch Configuration"]
+              "Operatingg Systems": ["Windows/Linux Servers", "Mac", "Android"]
           }
           self.hobbies = ["🎮 Video Games", "🎬 Movies ","🏊‍♀️ swimming", "👩‍🍳 cooking","🧳 Travel"]
           self.quote = "Passwords are like underwear: don't let people see it, change it very often, and you shouldn't share it with strangers." — Chris Pirillo
@@ -88,12 +89,34 @@ print(r"""
   <hr style="width:60%; border: 0.5px solid #ccc;" />
   
 ## 💻 Featured Projects
-### 🧾 Resource Hub @ WSO2  
-> A deliciously efficient web app to manage:
- 🍰 Meal Management,📦 Assets Management,🔧 Maintenance Management,📊 Reports,🔔 Notifications System
-
-Baked with: Ballerina 🎀 + React ⚛️
+### ⚖️ Ministry of Justice  -  Cloud Infrastructure
 <br>
+This project represents the AWS cloud infrastructure design and implementation for a Ministry of Justice (MOJ) web application and database system.<br/>
+<br>
+
+🔐 Key Objectives
+
+🔹High availability and fault tolerance
+
+🔹Secure government-grade infrastructure
+
+🔹Disaster recovery readiness
+
+🔹Scalable cloud foundation
+
+<br>
+🧩 My Role <br/>
+
+🔹AWS infrastructure design and planning
+
+🔹Coordination with AWS service provider
+
+🔹Security and compliance alignment
+
+🔹Implementation oversight and validation
+<br/>
+
+
 ### 💊 DocPulse  
 > Healthcare management system with receipt analytics and medicine suggestions.
 <!-- Divider -->
