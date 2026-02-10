@@ -178,7 +178,7 @@ The tenant is structured to support secure communication, document collaboration
   <br>
 
 ## 🏆 Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Thilanka Yasodhana Rathnayaka&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Thilanka-Rathnayaka&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" /> </p>
 <!-- Divider -->
 
 ### 🥇 Island 1st Place – Computer Hardware & Networking  
