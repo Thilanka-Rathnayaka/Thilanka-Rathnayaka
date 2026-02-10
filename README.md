@@ -118,8 +118,8 @@ print(r"""
 
 ### 🪟 Microsoft 365 Tenant Administration  -  Playpen Montessori
 
-## Serving as the Microsoft 365 Tenant Administrator for Playpen Montessori, managing and supporting a cloud-based productivity and collaboration environment for academic and administrative users.
-## The tenant is structured to support secure communication, document collaboration, and identity management while maintaining licensing efficiency and compliance.
+<p> Serving as the Microsoft 365 Tenant Administrator for Playpen Montessori, managing and supporting a cloud-based productivity and collaboration environment for academic and administrative users.
+The tenant is structured to support secure communication, document collaboration, and identity management while maintaining licensing efficiency and compliance.</p>
 
 🔐 Key Responsibilities & Scope:
 
@@ -180,6 +180,21 @@ print(r"""
 ## 🏆 Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Thilanka Yasodhana Rathnayaka&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" /> </p>
 <!-- Divider -->
+
+### 🥇 Island 1st Place – Computer Hardware & Networking  
+**VTA Skills Competition | Sri Lanka (2016 / 2017)**
+
+Awarded **Island First Place** at the national-level skills competition conducted by the **Vocational Training Authority (VTA), Sri Lanka**.
+
+**Key competencies demonstrated:**
+- 🖥️ Computer hardware assembly & troubleshooting  
+- 🌐 Networking fundamentals and device configuration  
+- 🔧 Practical diagnostics and real-world problem solving  
+- ⚡ Technical accuracy under time-bound conditions  
+
+This achievement highlights a strong foundation in **IT infrastructure, hardware, and networking principles**.
+
+
   <hr style="width:60%; border: 0.5px solid #ccc;" />
   <br>
   
@@ -187,32 +202,8 @@ print(r"""
 
 
 <p align="center" style="white-space: nowrap; overflow-x: auto;">
-  <a href="https://www.linkedin.com/in/nethmini-welgama-42a695325/?originalSubdomain=lk"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-  <a href="nethuwelgama1@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
-  <a href="https://www.instagram.com/nethu.welgama/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.facebook.com/profile.php?id=61553175157739"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=leetcode&logoColor=black" alt="facebook"></a> 
-  <a href="https://www.youtube.com/@NethuWelgama"><img src="https://img.shields.io/badge/YOU TUBE-FF0000?style=for-the-badge&logo=hackerrank&logoColor=white" alt="you tube"></a> 
-  <a href="https://hackerrank.com/yourusername"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-  <a href="https://leetcode.com/yourusername"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a> 
-  <a href="https://stackoverflow.com/users/youruserid"><img src="https://img.shields.io/badge/STACK_OVERFLOW-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"></a> 
+  <a href="https://www.linkedin.com/in/thilanka-yasodhana-rathnayaka-156647131/?originalSubdomain=lk"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+  <a href="thilankayasodhana@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
  </p>
  <br>
  
-## 🎵 Currently Listening
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YHRvDo8rUoQ">
-    <img src="https://img.shields.io/badge/Click_here_to_listen-6A0DAD?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing" />
-  </a>
-</p>
-<br>
-
-## 🎂 Buy Me a Cake
-
-<p align="center">
-  <a href="https://www.lemon8-app.com/seo/image?item_id=7123027284201587202&index=1&sign=0d698558655abf4f047a9c59444891da"_blank">
-    <img src="https://img.shields.io/badge/Buy_me_a_cake-FFA2D2?style=for-the-badge&logo=cakephp&logoColor=black" alt="Buy Me a Cake" />
-  </a>
-</p>
-<br><br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Thilanka Yasodhana Rathnayaka&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile views" /> </p>
