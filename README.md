@@ -78,6 +78,7 @@ print(r"""
 **Cybersecurity Tools**  
 
 <p align="center">
+ <img src=«https://www.flaticon.com/free-icon/server_9578846?term=firewall&page=1&position=17&origin=search&related_id=9578846" width="50" height="50" />
   <img src="https://simpleicons.org/icons/junipernetworks.svg" width="50" height="50" /> <img src="https://simpleicons.org/icons/fortinet.svg" width="50" height="50" />
 
 </p>
