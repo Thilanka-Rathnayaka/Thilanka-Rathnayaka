@@ -78,8 +78,9 @@ print(r"""
 **Cybersecurity Tools**  
 
 <p align="center">
- <img src=«https://www.flaticon.com/free-icon/server_9578846?term=firewall&page=1&position=17&origin=search&related_id=9578846" width="50" height="50" />
-  <img src="https://simpleicons.org/icons/junipernetworks.svg" width="50" height="50" /> <img src="https://simpleicons.org/icons/fortinet.svg" width="50" height="50" />
+<img src="https://static.cdnlogo.com/logos/f/34/fortinet.svg" height="180" width="180" /> &nbsp <img src="https://static.cdnlogo.com/logos/m/13/microsoft-defender.svg" height="60" width="55"/> &nbsp
+  <img src="https://www.cynet.com/wp-content/themes/cynet/assets/images/homepage-lp/Cynet_logo .svg" alt="" data-lazy-src="https://www.cynet.com/wp-content/themes/cynet/assets/images/homepage-lp/Cynet_logo .svg" data-ll-status="loaded" class="entered lazyloaded">
+ 
 
 </p>
 
