@@ -176,8 +176,8 @@ The tenant is structured to support secure communication, document collaboration
   
 ## 📊 GitHub Analytics
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Thilanka Yasodhana Rathnayaka&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" width="48%" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thilanka Yasodhana Rathnayaka&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2" width="48%" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Thilanka-Rathnayaka&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" width="48%" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thilanka-Rathnayaka&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2" width="48%" /> 
 </p>
 <!-- Divider -->
   <hr style="width:60%; border: 0.5px solid #ccc;" />
