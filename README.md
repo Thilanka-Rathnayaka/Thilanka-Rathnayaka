@@ -34,7 +34,7 @@
   class Thilanka:
       def __init__(self):
           self.name = "Thilanka Yasodhana Rathnayaka"
-          self.role = "Senior Technical Officer [IT,Networks & Cybersecurity]"
+          self.role = "Senior Technical Officer [IT,Networks, Cloud & Cybersecurity]"
           self.skills = {
               "Cloud & virtualization": ["AWS", "Azure", "Google"],
               "Cybersecurity": ["Firewall", "EDR/XDR", "Identify Security Vulnerabilities"],
