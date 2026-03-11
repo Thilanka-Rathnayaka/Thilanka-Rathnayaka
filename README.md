@@ -47,7 +47,6 @@
       def say_hello(self):
           print("Let's build something amazing together!")
 print(r"""
- ________ __       __ __
 |        \  \     |  \  \
  \▓▓▓▓▓▓▓▓ ▓▓____  \▓▓ ▓▓ ______
    | ▓▓  | ▓▓    \|  \ ▓▓|      \
@@ -57,6 +56,7 @@ print(r"""
    | ▓▓  | ▓▓  | ▓▓ ▓▓ ▓▓\▓▓    ▓▓
     \▓▓   \▓▓   \▓▓\▓▓\▓▓ \▓▓▓▓▓▓▓
 """)
+ ________ __       __ __
 
   me = Thilanka()
   me.say_hello()
