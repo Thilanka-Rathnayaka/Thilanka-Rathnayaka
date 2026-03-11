@@ -79,9 +79,7 @@ print(r"""
 
 <p align="center">
 <img src="https://static.cdnlogo.com/logos/f/34/fortinet.svg" height="180" width="180" /> &nbsp <img src="https://static.cdnlogo.com/logos/m/13/microsoft-defender.svg" height="60" width="55"/> &nbsp
-  <img src="https://covenco.com/wp-content/uploads/2024/11/Cynet_RGB-logo.svg" alt="Cynet logo" title="Cynet logo">
- 
-
+<img src="https://covenco.com/wp-content/uploads/2024/11/Cynet_RGB-logo.svg" alt="Cynet logo" title="Cynet logo"> 
 </p>
 
 **Operating Systems**  
