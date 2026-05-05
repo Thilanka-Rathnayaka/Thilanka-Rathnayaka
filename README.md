@@ -136,7 +136,7 @@ The tenant is structured to support secure communication, document collaboration
 
 🔹Managed licensing for:
 
-     🔹100 × Microsoft 365 A1 licenses
+     🔹1000 × Microsoft 365 A1 licenses
 
      🔹20 × Microsoft 365 A3 licenses
 
