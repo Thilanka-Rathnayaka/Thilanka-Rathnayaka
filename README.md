@@ -79,8 +79,8 @@ print(r"""
 
 <p align="center">
 <img src="https://static.cdnlogo.com/logos/f/34/fortinet.svg" width="160" /> &nbsp <img src="https://static.cdnlogo.com/logos/m/13/microsoft-defender.svg" height="60" width="55"/> &nbsp
-<img src="https://www.cynet.com/wp-content/uploads/elementor/thumbs/Cynet_Logo_Dark-ran98v077f10fndpxr0xlwpxpz8adxxhbu64jr17mg.png" height="60" width="55" alt="Cynet logo" title="Cynet logo"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/PaloAltoNetworks_2020_Logo.svg" alt="PaloAlto logo" title="PaloAlto logo">
+<img src="https://www.cynet.com/wp-content/uploads/elementor/thumbs/Cynet_Logo_Dark-ran98v077f10fndpxr0xlwpxpz8adxxhbu64jr17mg.png" alt="Cynet logo" title="Cynet logo"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/PaloAltoNetworks_2020_Logo.svg" height="60" width="55" alt="PaloAlto logo" title="PaloAlto logo">
 </p>
 
 **Operating Systems**  
