@@ -79,7 +79,7 @@ print(r"""
 
 <p align="center">
 <img src="https://static.cdnlogo.com/logos/f/34/fortinet.svg" width="160" /> &nbsp <img src="https://static.cdnlogo.com/logos/m/13/microsoft-defender.svg" height="60" width="55"/> &nbsp
-<img src="https://www.cynet.com/wp-content/uploads/elementor/thumbs/Cynet_Logo_Dark-ran98v077f10fndpxr0xlwpxpz8adxxhbu64jr17mg.png" alt="Cynet logo" title="Cynet logo"> &nbsp &nbsp
+<img src="https://www.cynet.com/wp-content/uploads/elementor/thumbs/Cynet_Logo_Dark-ran98v077f10fndpxr0xlwpxpz8adxxhbu64jr17mg.png" alt="Cynet logo" title="Cynet logo"> &nbsp
 <img src="https://cdn.brandfetch.io/idfPYio-v-/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1667925133056" width="150">
 </p>
 
